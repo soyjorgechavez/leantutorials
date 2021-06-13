@@ -1,0 +1,11 @@
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.pdf
+*.zip
+*.rar
+css/brand.css
+courses/*
+js/courses.js
+js/get_courses.js
